@@ -13,3 +13,8 @@
 * https://www.youtube.com/watch?v=d40wZH39zBU 
  
 * This link is to download the PrusaSlicer software. https://www.prusa3d.com/page/prusaslicer_424/
+
+## MK4S PRUSA
+
+* https://help.prusa3d.com/guide/6-xlcd-assembly_707776
+* 
